@@ -1,7 +1,12 @@
 <!-- README.md -->
 <div align="center">
-<h1 style="margin: 0;">🏆 2025 한국공학대전 우수작품 수상 🏆</h1>
+
+<h1 style="margin: 0; padding: 0;">
+🏆 2025 한국공학대전 우수작품 수상 🏆
+</h1>
+
 </div>
+
 
 
 <!-- 큰 타이틀 (GitHub에서 스타일 일부 제한이 있어도 꽤 예쁘게 나옵니다) -->
