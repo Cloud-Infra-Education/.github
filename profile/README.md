@@ -1,12 +1,9 @@
-<h1 class="heading-element" dir="auto"><p align="center" dir="auto">🏆 2025 한국공학대전 우수작품 수상 🏆</p><p dir="auto"></p></h1>
+<h1 class="heading-element" dir="auto"><p align="center" dir="auto">🏆 솔데스크 팀프로젝트 최우수작 🏆</p><p dir="auto"></p></h1>
 
 
-
-
-<!-- 큰 타이틀 (GitHub에서 스타일 일부 제한이 있어도 꽤 예쁘게 나옵니다) -->
 <h1>
   <span style="font-size:72px; font-weight:800; letter-spacing:-1px; color:#6D5EF6;">
-    IntelliView
+    Formation+
   </span>
 </h1>
 
