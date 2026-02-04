@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-<h1>🏆 2025 한국공학대전 우수작품 수상 🏆</h1>
+<h1 style="margin: 0;">🏆 2025 한국공학대전 우수작품 수상 🏆</h1>
 </div>
 
 
